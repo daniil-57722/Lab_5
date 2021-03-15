@@ -26,12 +26,7 @@ public class Lab_5 { public static void main(String[] args) {
         }
     }
 
-    for (int i = 0; i < arrayX.length; i++) {
-        System.out.print('\n');
-        for (int j = 0; j < arrayX[i].length; j++) {
-                System.out.print(arrayX[i][j]);
-            }
-        }
+
     for (int i = 0; i<arrayX.length; i++) {
         System.out.print('\n');
         for (int j = 0; j < arrayX[i].length; j++) {
